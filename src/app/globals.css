@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-layout {
+      background-color: #fff !important;
+}
+.custom-modal {
+      background-color: #feedf7;
+}
+.hide-scrollbar::-webkit-scrollbar {
+      display: none;
+}
